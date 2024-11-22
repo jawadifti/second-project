@@ -35,7 +35,7 @@ Create a new project from this template by clicking the "Use this template" butt
 ![](assets/template-usage.png)
 
 ```bash
-yarn
-yarn dev
-yarn test
+npm run dev
+npm run build
+npm run test
 ```
